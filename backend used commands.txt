@@ -1,0 +1,4 @@
+backend learning 
+npm install express body-parser cors mongoose nodemon uuid
+
+start mongodb  -- "C:\Program Files\MongoDB\Server\6.0\bin\mongo.exe"
